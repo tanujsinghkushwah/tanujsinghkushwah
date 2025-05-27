@@ -1,7 +1,7 @@
 # Tanuj Singh Kushwah  
 
 🔹 **Software Engineer** | Blockchain, AI, Distributed Systems, Android  
-🔹 **Specializing in scalable infrastructure & decentralized applications**  
+🔹 **Specializing in scalable infrastructure, AI & decentralized applications**  
 
 ### 🔧 Contributions  
 - **Blockchain and AI**: [aelf github profile](https://github.com/tanuj-aelf) – Smart Contracts in C#, Indexers, AI tools and dApp development  
