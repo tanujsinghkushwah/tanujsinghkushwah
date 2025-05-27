@@ -1,6 +1,6 @@
 # Tanuj Singh Kushwah  
 
-🔹 **Software Engineer @ Aelf** | Blockchain, AI, Distributed Systems, Android  
+🔹 **Software Engineer** | Blockchain, AI, Distributed Systems, Android  
 🔹 **Specializing in scalable infrastructure & decentralized applications**  
 
 ### 🔧 Contributions  
