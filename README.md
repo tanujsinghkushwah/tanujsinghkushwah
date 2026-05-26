@@ -1,9 +1,17 @@
-# Tanuj Singh Kushwah  
+### Hi, I'm Tanuj 👋
+🔹 Software Engineer | AI Agents, Distributed Systems, Blockchain, Android  
+🔹 Building scalable infrastructure and agentic AI systems
 
-🔹 **Software Engineer** | Blockchain, AI, Distributed Systems, Android  
-🔹 **Specializing in scalable infrastructure, AI & decentralized applications**  
+---
 
-### 🔧 Contributions  
-- **Blockchain and AI**: [ChronoAI github profile](https://github.com/tanuj-aelf) – Smart Contracts in C#, Indexers, AI tools and dApp development  
-- **Distributed Systems**: Optimized large-scale microservices and enhanced system monitoring at [Paytm](https://paytm.com/) and [District](https://www.district.in/) serving over 100 million customers in India.
-- **Android**: [Ether VPN](https://play.google.com/store/apps/details?id=com.anonymous.ethervpn) – Bootstrapped open-source VPN client built with OpenVPN providing free services in 176 countries downloaded over 10k+ times on playstore.
+### 🔧 Contributions
+- **AI & Agentic Systems**: LangGraph & CrewAI-based pipelines for automated debugging, anomaly detection, and code generation
+- **Distributed Systems**: Large-scale microservices, ETL optimization, and performance engineering serving 100M+ users
+- **Blockchain**: [GitHub](https://github.com/tanuj-aelf) — Smart contracts in C#, NFT indexers, dApp tooling
+- **Android**: [Ether VPN](https://play.google.com/store/apps/details?id=com.anonymous.ethervpn) — Open-source VPN client on OpenVPN, 10k+ downloads, free in 176 countries
+
+---
+
+### 🛠 Stack
+`Python` `Java` `JavaScript` `C#` `SQL` `GraphQL`  
+`LangGraph` `CrewAI` `FastAPI` `SpringBoot` `Node.js` `Kafka` `Elasticsearch` `Snowflake` `AWS`
