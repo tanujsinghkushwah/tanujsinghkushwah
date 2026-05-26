@@ -14,4 +14,4 @@
 
 ### 🛠 Stack
 `Python` `Java` `JavaScript` `C#` `SQL` `GraphQL`  
-`LangGraph` `CrewAI` `FastAPI` `SpringBoot` `Node.js` `Kafka` `Elasticsearch` `Snowflake` `AWS`
+`LangGraph` `CrewAI` `FastAPI` `SpringBoot` `Node.js` `Android` `.NET` `Kafka` `Elasticsearch` `Snowflake` `Redis` `MongoDB` `AWS`
