@@ -1,5 +1,5 @@
 ### Hi, I'm Tanuj 👋
-🔹 Software Engineer | AI Agents, Distributed Systems, Blockchain, Android  
+🔹 Software Engineer | Ex-Bittensor Miner | Exploring AI Agents, Distributed Systems, Blockchain, Android  
 🔹 Building scalable infrastructure and agentic AI systems
 
 ---
