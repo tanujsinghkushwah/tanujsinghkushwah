@@ -1,4 +1,3 @@
-### Hi, I'm Tanuj 👋
 🔹 Software Engineer | Exploring AI Agents, Distributed Systems, Blockchain, Android  
 🔹 Building scalable infrastructure and agentic AI systems
 
